@@ -1,6 +1,7 @@
 # MovieFlix
 
-O **MovieFlix** é um sistema no qual os usuários podem navegar em um catálogo de filmes e enviar avaliações sobre os filmes. Deverá ser implementado o modelo de domínio e o seed da base de dados, estruturar o projeto com camadas, validações, segurança e tratamento de exceções, e também recuperar os dados de perfil do usuário. 
+O **MovieFlix** é um sistema no qual os usuários podem navegar em um catálogo de filmes e enviar avaliações sobre os filmes. Deverá ser implementado o modelo de domínio e o seed da base de dados, estruturar o projeto com camadas, validações, segurança e tratamento de exceções, e também recuperar os dados de perfil do usuário. Além disso, deverá implementar o escopo dos casos de uso do sistema, que consiste no login, navegação dos filmes com busca paginada, filtros, visualização de detalhes, e por fim o registro de avaliações dos filmes. 
+
 
 ## Casos de Uso
 
